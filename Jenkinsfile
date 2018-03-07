@@ -1,5 +1,6 @@
 node {
  	// Clean workspace before doing anything
+   // Creating a new branch
     deleteDir()
 
     try {
